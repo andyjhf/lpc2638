@@ -1,0 +1,6 @@
+-c --cpu ARM7TDMI -g -O0 --apcs=interwork 
+-IC:\Keil_v5\ARM\RV31\INC
+-IC:\Keil_v5\ARM\CMSIS\Include
+-IC:\Keil_v5\ARM\INC\Philips
+-D__UVISION_VERSION="525" -D__DEBUG_FLASH
+-o .\obj\_spiflash512.o --omf_browse .\obj\_spiflash512.crf --depend .\obj\_spiflash512.d "Dev\Flash\SpiFlash\_SpiFlash512.c"

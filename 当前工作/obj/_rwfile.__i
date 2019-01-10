@@ -1,1 +1,0 @@
--c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\_rwfile.o" --omf_browse ".\obj\_rwfile.crf" --depend ".\obj\_rwfile.d" "File\_rwFile.c"

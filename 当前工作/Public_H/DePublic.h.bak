@@ -1,8 +1,0 @@
-#define DePublic_h
-#ifdef	DePublic_h
-	
-/*============================利用以太网口的RAM================================================*/	
-	#define De_Ram_Mac				0x7FE00000 				//LPC以太网口RAM起始地址
-    #define De_Uart_Ram 			De_Ram_Mac				//串口的开始地址
-	#define De_Flash_Ram			De_Uart_Ram+4096		//Flash擦扇区时的RAM
-#endif

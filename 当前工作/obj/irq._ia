@@ -1,1 +1,0 @@
---device DARMP -g --apcs=interwork --nowarn -I "C:\Keil\ARM\INC\Philips" --list ".\lst\IRQ.lst" --xref -o ".\obj\IRQ.o" "app\IRQ.s"

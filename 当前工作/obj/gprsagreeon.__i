@@ -1,1 +1,0 @@
--c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\gprsagreeon.o" --omf_browse ".\obj\gprsagreeon.crf" --depend ".\obj\gprsagreeon.d" "AgreeOn\Dev\GPRS\GPRSAgreeOn.c"

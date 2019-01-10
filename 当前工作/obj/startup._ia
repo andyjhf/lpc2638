@@ -1,1 +1,0 @@
---device DARMP -g --apcs=interwork --nowarn -I "C:\Keil\ARM\INC\Philips" --list ".\lst\Startup.lst" --xref -o ".\obj\Startup.o" "app\Startup.s"

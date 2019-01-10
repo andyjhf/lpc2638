@@ -1,1 +1,0 @@
--c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\_spiflash.o" --omf_browse ".\obj\_spiflash.crf" --depend ".\obj\_spiflash.d" "Dev\Flash\SpiFlash\_SpiFlash.c"

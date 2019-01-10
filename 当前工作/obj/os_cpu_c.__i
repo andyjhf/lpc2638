@@ -1,1 +1,0 @@
--c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\os_cpu_c.o" --omf_browse ".\obj\os_cpu_c.crf" --depend ".\obj\os_cpu_c.d" "arm\Os_cpu_c.c"

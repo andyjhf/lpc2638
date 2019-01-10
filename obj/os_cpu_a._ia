@@ -1,0 +1,6 @@
+--cpu ARM7TDMI -g --apcs=interwork --nowarn
+-IC:\Keil_v5\ARM\RV31\INC
+-IC:\Keil_v5\ARM\CMSIS\Include
+-IC:\Keil_v5\ARM\INC\Philips
+--pd "__UVISION_VERSION SETA 525"
+--list .\lst\os_cpu_a.lst --xref -o .\obj\os_cpu_a.o --depend .\obj\os_cpu_a.d "arm\Os_cpu_a.s"

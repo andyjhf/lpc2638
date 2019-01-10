@@ -1,1 +1,0 @@
---device DARMP -g --apcs=interwork --nowarn -I "C:\Keil\ARM\INC\Philips" --list ".\lst\Os_cpu_a.lst" --xref -o ".\obj\Os_cpu_a.o" "arm\Os_cpu_a.s"

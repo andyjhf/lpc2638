@@ -1,1 +1,0 @@
--c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\openandclose.o" --omf_browse ".\obj\openandclose.crf" --depend ".\obj\openandclose.d" "AppTask\OpenClose\OpenAndClose.c"

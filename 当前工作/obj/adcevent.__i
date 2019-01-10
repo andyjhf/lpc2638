@@ -1,1 +1,0 @@
--c --device DARMP -g -O0 --apcs=interwork -I "D:\Program Files\keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\adcevent.o" --omf_browse ".\obj\adcevent.crf" --depend ".\obj\adcevent.d" "AppFunction\Adc\AdcEvent.c"

@@ -1,0 +1,6 @@
+--cpu ARM7TDMI -g --apcs=interwork --nowarn
+-IC:\Keil_v5\ARM\RV31\INC
+-IC:\Keil_v5\ARM\CMSIS\Include
+-IC:\Keil_v5\ARM\INC\Philips
+--pd "__UVISION_VERSION SETA 525"
+--list .\lst\irq.lst --xref -o .\obj\irq.o --depend .\obj\irq.d "app\IRQ.s"

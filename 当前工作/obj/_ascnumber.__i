@@ -1,1 +1,0 @@
--c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\_ascnumber.o" --omf_browse ".\obj\_ascnumber.crf" --depend ".\obj\_ascnumber.d" "miscellaneous\CodeTrans\_AscNumber.c"

@@ -1,1 +1,0 @@
--c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\os_task.o" --omf_browse ".\obj\os_task.crf" --depend ".\obj\os_task.d" "ucosii\OS_TASK.C"

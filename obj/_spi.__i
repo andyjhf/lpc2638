@@ -1,0 +1,6 @@
+-c --cpu ARM7TDMI -g -O0 --apcs=interwork 
+-IC:\Keil_v5\ARM\RV31\INC
+-IC:\Keil_v5\ARM\CMSIS\Include
+-IC:\Keil_v5\ARM\INC\Philips
+-D__UVISION_VERSION="525" -D__DEBUG_FLASH
+-o .\obj\_spi.o --omf_browse .\obj\_spi.crf --depend .\obj\_spi.d "HardWare\Spi\_Spi.c"

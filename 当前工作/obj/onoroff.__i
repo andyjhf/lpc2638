@@ -1,1 +1,0 @@
--c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\onoroff.o" --omf_browse ".\obj\onoroff.crf" --depend ".\obj\onoroff.d" "Dev\Sensor\OnOff\OnOrOff.C"

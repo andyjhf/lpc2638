@@ -1,1 +1,0 @@
--c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\os_core.o" --omf_browse ".\obj\os_core.crf" --depend ".\obj\os_core.d" "ucosii\OS_CORE.C"

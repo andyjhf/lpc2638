@@ -1,1 +1,0 @@
--c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\accoper.o" --omf_browse ".\obj\accoper.crf" --depend ".\obj\accoper.d" "AppOper\AccOper.c"

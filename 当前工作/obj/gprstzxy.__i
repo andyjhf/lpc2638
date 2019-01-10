@@ -1,1 +1,0 @@
--c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\gprstzxy.o" --omf_browse ".\obj\gprstzxy.crf" --depend ".\obj\gprstzxy.d" "Dev\Sensor\GprsTzxy\GprsTzxy.C"

@@ -1,1 +1,0 @@
--c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\ds18b20.o" --omf_browse ".\obj\ds18b20.crf" --depend ".\obj\ds18b20.d" "HardWare\DS18B20\DS18B20.c"

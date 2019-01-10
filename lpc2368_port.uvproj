@@ -526,124 +526,9 @@
           <GroupName>HardWare</GroupName>
           <Files>
             <File>
-              <FileName>_Can.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\HardWare\Can\_Can.c</FilePath>
-            </File>
-            <File>
-              <FileName>_RTC.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\HardWare\RTC\_RTC.c</FilePath>
-            </File>
-            <File>
               <FileName>_Spi.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\HardWare\Spi\_Spi.c</FilePath>
-            </File>
-            <File>
-              <FileName>_UART.C</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\HardWare\UART\_UART.C</FilePath>
-            </File>
-            <File>
-              <FileName>ADCHard.C</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\HardWare\ADC\ADCHard.C</FilePath>
-            </File>
-            <File>
-              <FileName>DS18B20.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\HardWare\DS18B20\DS18B20.c</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
-          <GroupName>Dev</GroupName>
-          <Files>
-            <File>
-              <FileName>HuaiweiGprs.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Dev\GPRS\Huaiwei\HuaiweiGprs.c</FilePath>
-            </File>
-            <File>
-              <FileName>GprsHard.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Dev\GPRS\GprsHard.c</FilePath>
-            </File>
-            <File>
-              <FileName>Less.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Dev\Sensor\Less\Less.c</FilePath>
-            </File>
-            <File>
-              <FileName>ACC.C</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Dev\Sensor\ACC\ACC.C</FilePath>
-            </File>
-            <File>
-              <FileName>Oil.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Dev\Sensor\Oil\Oil.c</FilePath>
-            </File>
-            <File>
-              <FileName>Sensor.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Dev\Sensor\Sensor.c</FilePath>
-            </File>
-            <File>
-              <FileName>Gps.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Dev\Sensor\Gps\Gps.c</FilePath>
-            </File>
-            <File>
-              <FileName>Display.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Dev\Sensor\Display\Display.c</FilePath>
-            </File>
-            <File>
-              <FileName>temperture.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Dev\Sensor\temperture\temperture.c</FilePath>
-            </File>
-            <File>
-              <FileName>mileage.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Dev\Sensor\mileage\mileage.c</FilePath>
-            </File>
-            <File>
-              <FileName>GprsTzxy.C</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Dev\Sensor\GprsTzxy\GprsTzxy.C</FilePath>
-            </File>
-            <File>
-              <FileName>UartTzxy.C</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Dev\Sensor\UartTzxy\UartTzxy.C</FilePath>
-            </File>
-            <File>
-              <FileName>arealrm.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Dev\Sensor\arealrm\arealrm.c</FilePath>
-            </File>
-            <File>
-              <FileName>Help.C</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Dev\Sensor\Help\Help.C</FilePath>
-            </File>
-            <File>
-              <FileName>OnOrOff.C</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Dev\Sensor\OnOff\OnOrOff.C</FilePath>
-            </File>
-            <File>
-              <FileName>Adc1.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Dev\Sensor\ADC\Adc1.c</FilePath>
-            </File>
-            <File>
-              <FileName>SmsTzxy.C</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Dev\Sensor\SmsTzxy\SmsTzxy.C</FilePath>
             </File>
           </Files>
         </Group>
@@ -659,61 +544,6 @@
               <FileName>_DownFile.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\File\_DownFile.c</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
-          <GroupName>Control</GroupName>
-          <Files>
-            <File>
-              <FileName>SensorContr.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Control\Sensor\SensorContr.c</FilePath>
-            </File>
-            <File>
-              <FileName>GPRS.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Control\Gprs\GPRS.c</FilePath>
-            </File>
-            <File>
-              <FileName>Timer.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Control\Timer\Timer.c</FilePath>
-            </File>
-            <File>
-              <FileName>Photo.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Control\Photo\Photo.c</FilePath>
-            </File>
-            <File>
-              <FileName>GpsAndMileage.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Control\GpsAndMileage\GpsAndMileage.c</FilePath>
-            </File>
-            <File>
-              <FileName>FTP.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Control\FTP\FTP.c</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
-          <GroupName>AgreeOn</GroupName>
-          <Files>
-            <File>
-              <FileName>Tz_Agreen.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\AgreeOn\TzV2.1\Agree\Tz_Agreen.c</FilePath>
-            </File>
-            <File>
-              <FileName>Tz_Send.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\AgreeOn\TzV2.1\Send\Tz_Send.c</FilePath>
-            </File>
-            <File>
-              <FileName>TzV2.1.C</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\AgreeOn\TzV2.1.C</FilePath>
             </File>
           </Files>
         </Group>
@@ -758,36 +588,6 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>AppSendAgreeOn</GroupName>
-          <Files>
-            <File>
-              <FileName>AppSendAgreeOn.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\AppSendAgreeOn\AppSendAgreeOn.c</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
-          <GroupName>AppAgreeOn</GroupName>
-          <Files>
-            <File>
-              <FileName>AppGprs.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\AppAgreenOn\AppGprs.c</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
-          <GroupName>OpenSensor</GroupName>
-          <Files>
-            <File>
-              <FileName>OpenSensor.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\OpenSensor\OpenSensor.c</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
           <GroupName>AppOper</GroupName>
           <Files>
             <File>
@@ -824,26 +624,6 @@
               <FileName>MessageAndPhone.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\AppOper\MessageAndPhone.c</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
-          <GroupName>AppTask</GroupName>
-          <Files>
-            <File>
-              <FileName>LogOnServer.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\AppTask\LogOnServer\LogOnServer.c</FilePath>
-            </File>
-            <File>
-              <FileName>OpenAndClose.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\AppTask\OpenClose\OpenAndClose.c</FilePath>
-            </File>
-            <File>
-              <FileName>UpdateSoftWare.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\AppTask\UpdateSoftWare\UpdateSoftWare.c</FilePath>
             </File>
           </Files>
         </Group>

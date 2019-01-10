@@ -1,1 +1,0 @@
--c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\mileage.o" --omf_browse ".\obj\mileage.crf" --depend ".\obj\mileage.d" "Dev\Sensor\mileage\mileage.c"

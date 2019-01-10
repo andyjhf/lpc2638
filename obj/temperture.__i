@@ -1,0 +1,6 @@
+-c --cpu ARM7TDMI -g -O0 --apcs=interwork 
+-IC:\Keil_v5\ARM\RV31\INC
+-IC:\Keil_v5\ARM\CMSIS\Include
+-IC:\Keil_v5\ARM\INC\Philips
+-D__UVISION_VERSION="525" -D__DEBUG_FLASH
+-o .\obj\temperture.o --omf_browse .\obj\temperture.crf --depend .\obj\temperture.d "Dev\Sensor\temperture\temperture.c"
