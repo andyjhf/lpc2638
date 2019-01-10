@@ -1,0 +1,13 @@
+<html>
+<body>
+<pre>
+<h1>礦ision3 Build Log</h1>
+<h2>Project:</h2>
+C:\Documents and Settings\jhf\桌面\当前工作120\当前工作1206\当前工作\lpc2368_port.uv2
+Project File Date:  11/13/2009
+
+<h2>Output:</h2>
+Build target 'LPC2368Kit'
+linking...
+.\obj\GPRS_OS.axf: error: L9932E: This Evaluation Version has expired. Please contact your supplier. 
+Target not created

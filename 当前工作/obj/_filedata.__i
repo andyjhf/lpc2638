@@ -1,0 +1,1 @@
+-c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\_filedata.o" --omf_browse ".\obj\_filedata.crf" --depend ".\obj\_filedata.d" "FilleData\_FileData.c"

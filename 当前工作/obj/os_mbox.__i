@@ -1,0 +1,1 @@
+-c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\os_mbox.o" --omf_browse ".\obj\os_mbox.crf" --depend ".\obj\os_mbox.d" "ucosii\OS_MBOX.C"

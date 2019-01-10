@@ -1,0 +1,1 @@
+-c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\gpsandmileage.o" --omf_browse ".\obj\gpsandmileage.crf" --depend ".\obj\gpsandmileage.d" "Control\GpsAndMileage\GpsAndMileage.c"

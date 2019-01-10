@@ -1,0 +1,1 @@
+-c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\uartagreeon.o" --omf_browse ".\obj\uartagreeon.crf" --depend ".\obj\uartagreeon.d" "AgreeOn\Dev\Uart\UartAgreeOn.c"

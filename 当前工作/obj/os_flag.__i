@@ -1,0 +1,1 @@
+-c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\os_flag.o" --omf_browse ".\obj\os_flag.crf" --depend ".\obj\os_flag.d" "ucosii\OS_FLAG.C"

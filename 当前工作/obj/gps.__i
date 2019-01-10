@@ -1,0 +1,1 @@
+-c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\gps.o" --omf_browse ".\obj\gps.crf" --depend ".\obj\gps.d" "Dev\Sensor\Gps\Gps.c"

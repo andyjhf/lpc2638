@@ -1,0 +1,1 @@
+-c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\_date.o" --omf_browse ".\obj\_date.crf" --depend ".\obj\_date.d" "miscellaneous\Date\_Date.c"

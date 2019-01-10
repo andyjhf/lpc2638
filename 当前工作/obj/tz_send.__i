@@ -1,0 +1,1 @@
+-c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\tz_send.o" --omf_browse ".\obj\tz_send.crf" --depend ".\obj\tz_send.d" "AgreeOn\TzV2.1\Send\Tz_Send.c"

@@ -1,0 +1,1 @@
+-c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\tz_agreen.o" --omf_browse ".\obj\tz_agreen.crf" --depend ".\obj\tz_agreen.d" "AgreeOn\TzV2.1\Agree\Tz_Agreen.c"

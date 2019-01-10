@@ -1,0 +1,1 @@
+-c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\jugeoper.o" --omf_browse ".\obj\jugeoper.crf" --depend ".\obj\jugeoper.d" "AppOper\JugeOper.c"

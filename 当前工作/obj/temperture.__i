@@ -1,0 +1,1 @@
+-c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\temperture.o" --omf_browse ".\obj\temperture.crf" --depend ".\obj\temperture.d" "Dev\Sensor\temperture\temperture.c"

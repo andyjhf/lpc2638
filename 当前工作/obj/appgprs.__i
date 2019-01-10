@@ -1,0 +1,1 @@
+-c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\appgprs.o" --omf_browse ".\obj\appgprs.crf" --depend ".\obj\appgprs.d" "AppAgreenOn\AppGprs.c"

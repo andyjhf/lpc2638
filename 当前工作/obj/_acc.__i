@@ -1,0 +1,1 @@
+-c --device DARMP -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -D__DEBUG_FLASH -o ".\obj\_acc.o" --omf_browse ".\obj\_acc.crf" --depend ".\obj\_acc.d" "Control\Acc\_Acc.c"

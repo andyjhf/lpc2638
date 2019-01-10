@@ -1,0 +1,39 @@
+/*========================================工作参数定义表========================================================*/
+	#define De_Sensor_WordPar_Switch1								0x0001					//开关量1
+	#define De_Sensor_WordPar_Switch2								0x0002					//开关量2
+	#define De_Sensor_WordPar_Switch3								0x0003					//开关量3
+	#define De_Sensor_WordPar_Switch4								0x0004					//开关量4
+	#define De_Sensor_WordPar_Switch5								0x0005					//开关量5
+	#define De_Sensor_WordPar_Switch6								0x0006					//开关量6
+	#define De_Sensor_WordPar_Switch7								0x0007					//开关量7
+	#define De_Sensor_WordPar_Switch8								0x0008					//开关量8
+	#define De_Sensor_WordPar_Switch9								0x0009					//开关量9
+	#define De_Sensor_WordPar_Switch10								0x000a					//开关量10
+	#define De_Sensor_WordPar_Switch11								0x000b					//开关量11
+	#define De_Sensor_WordPar_Switch12								0x000c					//开关量12
+	#define De_Sensor_WordPar_Switch13								0x000d					//开关量13
+	#define De_Sensor_WordPar_Switch14								0x000e					//开关量14
+	#define De_Sensor_WordPar_Switch15								0x000f					//开关量15
+	#define De_Sensor_WordPar_Switch16								0x0010					//开关量16
+
+	#define De_Sensor_WordPar_Less_Switch1							0x0011				   	//无线开关量1
+	#define De_Sensor_WordPar_Less_Switch2							0x0012					//无线开关量2
+	#define De_Sensor_WordPar_Less_Switch3							0x0013					//无线开关量3
+	#define De_Sensor_WordPar_Less_Switch4							0x0014					//无线开关量4
+	#define De_Sensor_WordPar_Less_Switch5							0x0015					//无线开关量5
+	#define De_Sensor_WordPar_Less_Switch6							0x0016					//无线开关量6
+
+	#define De_Sensor_WordPar_AccTimer								0x0100					//ACC累计时间
+	#define De_Sensor_WordPar_Mileage								0x0101					//里程统计
+	#define De_Sensor_WordPar_Oil1									0x0102					//油箱油位1
+	#define De_Sensor_WordPar_Sem									0x0103					//GSM信号强度
+	#define De_Sensor_WordPar_SendOilTimer							0x0104					//喷油累计时间
+	#define De_Sensor_WordPar_Temp									0x0105					//温度
+	#define De_Sensor_WordPar_Oil2									0x0106					//油箱油位2
+	#define De_Sensor_WordPar_Pulse									0x0107					//脉冲个数
+	#define De_Sensor_WordPar_Humidity								0x0108					//湿度
+	#define De_Sensor_WordPar_OilBaifen								0x0109					//油箱油位百分比
+	#define De_Sensor_WordPar_Less_Temp1							0x0111					//无线传感器温度1      
+	#define De_Sensor_WordPar_Less_Temp2							0x0112					//无线传感器温度2   
+	#define De_Sensor_WordPar_Less_Temp3							0x0113					//无线传感器温度3   
+	#define De_Sensor_WordPar_Less_Temp4							0x0114					//无线传感器温度4
